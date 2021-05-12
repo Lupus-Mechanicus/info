@@ -1,0 +1,1975 @@
+Computer Information:
+    Manufacturer:  Unknown
+    Model:  Unknown
+    Form Factor: Desktop
+    No Touch Input Detected
+
+Processor Information:
+    CPU Vendor:  AuthenticAMD
+    CPU Brand:  AMD Ryzen 5 3500X 6-Core Processor             
+    CPU Family:  0x17
+    CPU Model:  0x71
+    CPU Stepping:  0x0
+    CPU Type:  0x0
+    Speed:  4366 Mhz
+    6 logical processors
+    6 physical processors
+    HyperThreading:  Unsupported
+    FCMOV:  Supported
+    SSE2:  Supported
+    SSE3:  Supported
+    SSSE3:  Supported
+    SSE4a:  Supported
+    SSE41:  Supported
+    SSE42:  Supported
+    AES:  Supported
+    AVX:  Supported
+    AVX2:  Unsupported
+    AVX512F:  Unsupported
+    AVX512PF:  Unsupported
+    AVX512ER:  Unsupported
+    AVX512CD:  Unsupported
+    AVX512VNNI:  Unsupported
+    SHA:  Unsupported
+    CMPXCHG16B:  Supported
+    LAHF/SAHF:  Supported
+    PrefetchW:  Unsupported
+
+Operating System Version:
+    Ubuntu 20.04.2 LTS (64 bit)
+    Kernel Name:  Linux
+    Kernel Version:  5.8.0-53-generic
+    X Server Vendor:  The X.Org Foundation
+    X Server Release:  12009000
+    X Window Manager:  Metacity (Marco)
+    Steam Runtime Version:  steam-runtime_0.20210317.0
+
+Video Card:
+    Driver:  AMD Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)
+    Driver Version:  4.6 (Compatibility Profile) Mesa 21.1.0
+    OpenGL Version: 4.6
+    Desktop Color Depth: 24 bits per pixel
+    Monitor Refresh Rate: 60 Hz
+    VendorID:  0x1002
+    DeviceID:  0x67df
+    Revision Not Detected
+    Number of Monitors:  1
+    Number of Logical Video Cards:  1
+    Primary Display Resolution:  1920 x 1080
+    Desktop Resolution: 1920 x 1080
+    Primary Display Size: 20.08" x 11.42" (23.07" diag)
+                                            51.0cm x 29.0cm (58.6cm diag)
+    Primary VRAM: 8192 MB
+
+Sound card:
+    Audio device: ATI R6xx HDMI
+
+Memory:
+    RAM:  15961 Mb
+
+VR Hardware:
+    VR Headset: None detected
+
+Miscellaneous:
+    UI Language:  English
+    LANG:  en_US.UTF-8
+    Total Hard Disk Space Available:  214095 Mb
+    Largest Free Hard Disk Block:  77589 Mb
+
+Storage:
+    Number of SSDs: 0
+    SSD sizes: %s1
+    Number of HDDs: 0
+    HDD sizes: %s1
+
+"LD_* scout runtime" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/alexthedacian/.local/share/Steam",
+    "data_path" : "/home/alexthedacian/.local/share/Steam",
+    "bin32_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/bin/steam",
+    "steamscript_version" : "1.0.0.70",
+    "issues" : [
+    ]
+  },
+  "runtime" : {
+    "path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime",
+    "version" : "0.20210317.0",
+    "issues" : [
+    ],
+    "pinned_libs_32" : {
+      "list" : [
+        "  6422570      4 drwxrwxr-x   2 alexthedacian alexthedacian     4096 apr 13 09:52 pinned_libs_32",
+        "  6422582      4 -rw-rw-r--   1 alexthedacian alexthedacian       80 apr 13 09:51 pinned_libs_32/system_libvulkan.so.1",
+        "  6426125      4 lrwxrwxrwx   1 alexthedacian alexthedacian      102 apr 13 09:52 pinned_libs_32/libdbus-1.so.3 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu/libdbus-1.so.3.5.8",
+        "  6422580      4 -rw-rw-r--   1 alexthedacian alexthedacian       72 apr 13 09:51 pinned_libs_32/system_libGLU.so.1",
+        "  6422576      4 lrwxrwxrwx   1 alexthedacian alexthedacian      109 apr 13 09:51 pinned_libs_32/libSDL2-2.0.so.0 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libSDL2-2.0.so.0.14.0",
+        "  6422579      4 lrwxrwxrwx   1 alexthedacian alexthedacian      107 apr 13 09:51 pinned_libs_32/libGLU.so.1 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libGLU.so.1.3.08004",
+        "  6422581      4 lrwxrwxrwx   1 alexthedacian alexthedacian      108 apr 13 09:51 pinned_libs_32/libvulkan.so.1 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libvulkan.so.1.2.170",
+        "  6426127      4 -rw-rw-r--   1 alexthedacian alexthedacian       80 apr 13 09:52 pinned_libs_32/system_libdbus-1.so.3",
+        "  6422578      0 -rw-rw-r--   1 alexthedacian alexthedacian        0 apr 13 09:52 pinned_libs_32/has_pins",
+        "  6422577      4 -rw-rw-r--   1 alexthedacian alexthedacian       83 apr 13 09:51 pinned_libs_32/system_libSDL2-2.0.so.0"
+      ]
+    },
+    "pinned_libs_64" : {
+      "list" : [
+        "  6422575      4 drwxrwxr-x   2 alexthedacian alexthedacian     4096 apr 13 09:52 pinned_libs_64",
+        "  6422584      4 -rw-rw-r--   1 alexthedacian alexthedacian       95 apr 13 09:51 pinned_libs_64/system_libdbusmenu-gtk.so.4",
+        "  6426116      4 -rw-rw-r--   1 alexthedacian alexthedacian       52 apr 13 09:51 pinned_libs_64/system_libopusfile.so.0",
+        "  6426122      4 -rw-rw-r--   1 alexthedacian alexthedacian       84 apr 13 09:51 pinned_libs_64/system_libvulkan.so.1",
+        "  6422589      4 -rw-rw-r--   1 alexthedacian alexthedacian       78 apr 13 09:51 pinned_libs_64/system_libcurl.so.4",
+        "  6422593      4 -rw-rw-r--   1 alexthedacian alexthedacian       76 apr 13 09:51 pinned_libs_64/system_libGLU.so.1",
+        "  6422583      4 lrwxrwxrwx   1 alexthedacian alexthedacian      115 apr 13 09:51 pinned_libs_64/libdbusmenu-gtk.so.4 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libdbusmenu-gtk.so.4.0.13",
+        "  6422586      4 lrwxrwxrwx   1 alexthedacian alexthedacian      116 apr 13 09:51 pinned_libs_64/libdbusmenu-glib.so.4 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libdbusmenu-glib.so.4.0.13",
+        "  6422588      4 lrwxrwxrwx   1 alexthedacian alexthedacian      106 apr 13 09:51 pinned_libs_64/libcurl.so.4 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libcurl.so.4.2.0",
+        "  6422590      4 lrwxrwxrwx   1 alexthedacian alexthedacian      111 apr 13 09:51 pinned_libs_64/libSDL2-2.0.so.0 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libSDL2-2.0.so.0.14.0",
+        "  6422592      4 lrwxrwxrwx   1 alexthedacian alexthedacian      109 apr 13 09:51 pinned_libs_64/libGLU.so.1 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libGLU.so.1.3.08004",
+        "  6426029      4 -rw-rw-r--   1 alexthedacian alexthedacian       50 apr 13 09:51 pinned_libs_64/system_libopusurl.so.0",
+        "  6422594      4 lrwxrwxrwx   1 alexthedacian alexthedacian      109 apr 13 09:51 pinned_libs_64/libopusurl.so.0 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libopusurl.so.0.4.4",
+        "  6422587      4 -rw-rw-r--   1 alexthedacian alexthedacian       97 apr 13 09:51 pinned_libs_64/system_libdbusmenu-glib.so.4",
+        "  6426113      4 lrwxrwxrwx   1 alexthedacian alexthedacian      110 apr 13 09:51 pinned_libs_64/libopusfile.so.0 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libopusfile.so.0.4.4",
+        "  6426117      4 lrwxrwxrwx   1 alexthedacian alexthedacian      110 apr 13 09:51 pinned_libs_64/libvulkan.so.1 -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libvulkan.so.1.2.170",
+        "  6422585      0 -rw-rw-r--   1 alexthedacian alexthedacian        0 apr 13 09:51 pinned_libs_64/has_pins",
+        "  6422591      4 -rw-rw-r--   1 alexthedacian alexthedacian       87 apr 13 09:51 pinned_libs_64/system_libSDL2-2.0.so.0",
+        "  6426130      0 lrwxrwxrwx   1 alexthedacian alexthedacian       12 apr 13 09:52 pinned_libs_64/libcurl.so.3 -> libcurl.so.4"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "ubuntu",
+    "id_like" : [
+      "debian"
+    ],
+    "name" : "Ubuntu",
+    "pretty_name" : "Ubuntu 20.04.2 LTS",
+    "version_id" : "20.04",
+    "version_codename" : "focal"
+  },
+  "container" : {
+    "type" : "none"
+  },
+  "driver_environment" : [
+    "DISPLAY=:0",
+    "LD_LIBRARY_PATH=/home/alexthedacian/.local/share/Steam/ubuntu12_32:/home/alexthedacian/.local/share/Steam/ubuntu12_32/panorama:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_32:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_64:/usr/lib/x86_64-linux-gnu/libfakeroot:/lib/i386-linux-gnu:/usr/local/lib:/lib/x86_64-linux-gnu:/lib32:/libx32:/lib:/lib/i386-linux-gnu/i686:/lib/i386-linux-gnu/sse2:/lib/i386-linux-gnu/i686/sse2:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/lib/x86_64-linux-gnu:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/lib:/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,",
+    "XDG_RUNTIME_DIR=/run/user/1000"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib/i386-linux-gnu/ld-2.31.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "WARNING: lavapipe is not a conformant vulkan implementation, testing use only."
+          ],
+          "renderer" : "AMD RADV POLARIS10 (ACO)",
+          "version" : "1.2.168 (device 0x1002:0x67df) (driver 21.1.0)",
+          "devices" : [
+            {
+              "name" : "AMD RADV POLARIS10 (ACO)",
+              "api-version" : "1.2.168",
+              "driver-version" : "21.1.0",
+              "vendor-id" : "0x1002",
+              "device-id" : "0x67df",
+              "type" : "discrete-gpu"
+            },
+            {
+              "name" : "llvmpipe (LLVM 12.0.0, 256 bits)",
+              "api-version" : "1.1.168",
+              "driver-version" : "0.0.1",
+              "vendor-id" : "0x10005",
+              "device-id" : "0",
+              "type" : "cpu",
+              "issues" : [
+                "software-rendering"
+              ]
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "G3DVL VDPAU Driver Shared Library version 1.0\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.7.0",
+            "libva info: Trying to open /usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0"
+          ],
+          "renderer" : "Mesa Gallium driver 21.1.0 for Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)\n",
+          "version" : null
+        },
+        "glx/gl" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "messages" : [
+            "Waffle error: 0x1 WAFFLE_ERROR_FATAL: dlopen(\"libEGL.so.1\") failed: libEGL.so.1: wrong ELF class: ELFCLASS64"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "unknown",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        },
+        "egl_x11/glesv2" : {
+          "messages" : [
+            "Waffle error: 0x1 WAFFLE_ERROR_FATAL: dlopen(\"libEGL.so.1\") failed: libEGL.so.1: wrong ELF class: ELFCLASS64"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "unknown",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/zink_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/dri/dummy_drv_video.so"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/x86_64-linux-gnu/ld-2.31.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "WARNING: lavapipe is not a conformant vulkan implementation, testing use only."
+          ],
+          "renderer" : "AMD RADV POLARIS10 (ACO)",
+          "version" : "1.2.168 (device 0x1002:0x67df) (driver 21.1.0)",
+          "devices" : [
+            {
+              "name" : "AMD RADV POLARIS10 (ACO)",
+              "api-version" : "1.2.168",
+              "driver-version" : "21.1.0",
+              "vendor-id" : "0x1002",
+              "device-id" : "0x67df",
+              "type" : "discrete-gpu"
+            },
+            {
+              "name" : "llvmpipe (LLVM 12.0.0, 256 bits)",
+              "api-version" : "1.1.168",
+              "driver-version" : "0.0.1",
+              "vendor-id" : "0x10005",
+              "device-id" : "0",
+              "type" : "cpu",
+              "issues" : [
+                "software-rendering"
+              ]
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "G3DVL VDPAU Driver Shared Library version 1.0\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.7.0",
+            "libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0"
+          ],
+          "renderer" : "Mesa Gallium driver 21.1.0 for Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)\n",
+          "version" : null
+        },
+        "glx/gl" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "OpenGL ES 3.2 Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/dri/dummy_drv_video.so"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "LC_CTYPE=en_US.UTF-8;LC_NUMERIC=ro_RO.UTF-8;LC_TIME=ro_RO.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=ro_RO.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=ro_RO.UTF-8;LC_NAME=ro_RO.UTF-8;LC_ADDRESS=ro_RO.UTF-8;LC_TELEPHONE=ro_RO.UTF-8;LC_MEASUREMENT=ro_RO.UTF-8;LC_IDENTIFICATION=ro_RO.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/lvp_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+        "api_version" : "1.1.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/lvp_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_lvp.so",
+        "api_version" : "1.1.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_intel.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_radeon.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_icd.i686.json",
+        "library_path" : "/usr/lib/i386-linux-gnu/libvulkan_intel.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.x86_64.json",
+        "library_path" : "/usr/lib/x86_64-linux-gnu/libvulkan_radeon.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_MESA_overlay.json",
+        "name" : "VK_LAYER_MESA_overlay",
+        "description" : "Mesa Overlay layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.1.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_overlay.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_api_dump.json",
+        "name" : "VK_LAYER_LUNARG_api_dump",
+        "description" : "LunarG API dump layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "2",
+        "library_path" : "libVkLayer_api_dump.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_device_simulation.json",
+        "name" : "VK_LAYER_LUNARG_device_simulation",
+        "description" : "LunarG device simulation layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1.4.1",
+        "library_path" : "libVkLayer_device_simulation.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_gfxreconstruct.json",
+        "name" : "VK_LAYER_LUNARG_gfxreconstruct",
+        "description" : "GFXReconstruct Capture Layer Version 0.9.5-unknown",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "36869",
+        "library_path" : "libVkLayer_gfxreconstruct.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_khronos_validation.json",
+        "name" : "VK_LAYER_KHRONOS_validation",
+        "description" : "Khronos Validation Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_khronos_validation.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_monitor.json",
+        "name" : "VK_LAYER_LUNARG_monitor",
+        "description" : "Execution Monitoring Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_monitor.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/explicit_layer.d/VkLayer_screenshot.json",
+        "name" : "VK_LAYER_LUNARG_screenshot",
+        "description" : "LunarG image capture layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_screenshot.so",
+        "issues" : [
+        ]
+      }
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/usr/share/vulkan/implicit_layer.d/VkLayer_MESA_device_select.json",
+        "name" : "VK_LAYER_MESA_device_select",
+        "description" : "Linux device selection layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_device_select.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/alexthedacian/.local/share/vulkan/implicit_layer.d/steamfossilize_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/alexthedacian/.local/share/vulkan/implicit_layer.d/steamfossilize_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/alexthedacian/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/alexthedacian/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+    {
+      "id" : "steam.desktop",
+      "commandline" : "/usr/bin/steam %U",
+      "filename" : "/usr/share/applications/steam.desktop",
+      "default_steam_uri_handler" : true,
+      "steam_uri_handler" : true
+    }
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : false
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+
+"scout runtime container" is not installed.
+
+"soldier runtime container" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/alexthedacian/.local/share/Steam",
+    "data_path" : "/home/alexthedacian/.local/share/Steam",
+    "bin32_path" : "/home/alexthedacian/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/bin/steam",
+    "steamscript_version" : "1.0.0.70",
+    "issues" : [
+      "missing-steam-uri-handler",
+      "unexpected-steam-uri-handler"
+    ]
+  },
+  "runtime" : {
+    "path" : "/",
+    "version" : "0.20210415.0",
+    "issues" : [
+    ],
+    "overrides" : {
+      "list" : [
+        "       86      0 drwxr-xr-x   4 alexthedacian alexthedacian       80 mai 12 17:25 overrides",
+        "      123      0 drwxr-xr-x   4 alexthedacian alexthedacian      220 mai 12 17:25 overrides/lib",
+        "      245      0 drwxr-xr-x   7 alexthedacian alexthedacian     1780 mai 12 17:25 overrides/lib/x86_64-linux-gnu",
+        "      373      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_dns-2.31.so",
+        "      372      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpciaccess.so.0.11.1",
+        "      371      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0",
+        "      370      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxshmfence.so.1.0.0",
+        "      369      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libm.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libm-2.31.so",
+        "      368      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0",
+        "      367      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libXxf86vm.so.1.0.0",
+        "      366      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-randr.so.0.1.0",
+        "      365      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libglapi.so.0.0.0",
+        "      355      0 drwxr-xr-x   2 alexthedacian alexthedacian      220 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau",
+        "      364      0 lrwxrwxrwx   1 alexthedacian alexthedacian       66 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      363      0 lrwxrwxrwx   1 alexthedacian alexthedacian       63 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1.0.0",
+        "      362      0 lrwxrwxrwx   1 alexthedacian alexthedacian       66 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      361      0 lrwxrwxrwx   1 alexthedacian alexthedacian       64 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1.0.0",
+        "      360      0 lrwxrwxrwx   1 alexthedacian alexthedacian       63 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1.0.0",
+        "      359      0 lrwxrwxrwx   1 alexthedacian alexthedacian       63 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1.0.0",
+        "      358      0 lrwxrwxrwx   1 alexthedacian alexthedacian       63 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1.0.0",
+        "      357      0 lrwxrwxrwx   1 alexthedacian alexthedacian       67 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      356      0 lrwxrwxrwx   1 alexthedacian alexthedacian       67 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      354      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgcc_s.so.1",
+        "      353      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libLLVM-12.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libLLVM-12.so.1",
+        "      352      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libXau.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXau.so.6.0.0",
+        "      351      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libffi.so.7 -> /run/host/usr/lib/x86_64-linux-gnu/libffi.so.7.1.0",
+        "      350      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libXext.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libXext.so.6.4.0",
+        "      349      0 lrwxrwxrwx   1 alexthedacian alexthedacian       58 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0",
+        "      348      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libpcprofile.so -> /run/host/usr/lib/x86_64-linux-gnu/libpcprofile.so",
+        "      347      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/liblz4.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2",
+        "      346      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libidn2.so.0.3.6",
+        "      345      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libpthread-2.31.so",
+        "      344      0 lrwxrwxrwx   1 alexthedacian alexthedacian       58 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "      343      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0",
+        "      342      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0.0.0",
+        "      341      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libX11.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libX11.so.6.3.0",
+        "      340      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_monitor.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_monitor.so",
+        "      339      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so",
+        "      338      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libmemusage.so -> /run/host/usr/lib/x86_64-linux-gnu/libmemusage.so",
+        "      337      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libva.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva.so.2.700.0",
+        "      336      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libunistring.so.2.1.0",
+        "      335      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-x11.so.2.700.0",
+        "      334      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-dri2.so.0.0.0",
+        "      329      0 drwxr-xr-x   2 alexthedacian alexthedacian      120 mai 12 17:25 overrides/lib/x86_64-linux-gnu/aliases",
+        "      333      0 lrwxrwxrwx   1 alexthedacian alexthedacian       39 mai 12 17:25 overrides/lib/x86_64-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/x86_64-linux-gnu/libbz2.so.1.0",
+        "      332      0 lrwxrwxrwx   1 alexthedacian alexthedacian       40 mai 12 17:25 overrides/lib/x86_64-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/x86_64-linux-gnu/libOSMesa.so.8",
+        "      331      0 lrwxrwxrwx   1 alexthedacian alexthedacian       45 mai 12 17:25 overrides/lib/x86_64-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4",
+        "      330      0 lrwxrwxrwx   1 alexthedacian alexthedacian       37 mai 12 17:25 overrides/lib/x86_64-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/x86_64-linux-gnu/libXaw.so.7",
+        "      328      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0",
+        "      327      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdl.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdl-2.31.so",
+        "      326      0 lrwxrwxrwx   1 alexthedacian alexthedacian       66 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_device_simulation.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_device_simulation.so",
+        "      325      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_api_dump.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_api_dump.so",
+        "      324      0 lrwxrwxrwx   1 alexthedacian alexthedacian       67 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so",
+        "      321      0 drwxr-xr-x   2 alexthedacian alexthedacian       80 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer",
+        "      323      0 lrwxrwxrwx   1 alexthedacian alexthedacian       77 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/alexthedacian/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "      322      0 lrwxrwxrwx   1 alexthedacian alexthedacian       80 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/alexthedacian/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "      320      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libedit.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libedit.so.2.0.63",
+        "      319      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0",
+        "      318      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-client.so.0.3.0",
+        "      317      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libc.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libc-2.31.so",
+        "      316      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libelf.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libelf-0.176.so",
+        "      294      0 drwxr-xr-x   2 alexthedacian alexthedacian      460 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri",
+        "      315      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i915_dri.so",
+        "      314      0 lrwxrwxrwx   1 alexthedacian alexthedacian       59 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so",
+        "      313      0 lrwxrwxrwx   1 alexthedacian alexthedacian       60 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+        "      312      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so",
+        "      311      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so",
+        "      310      0 lrwxrwxrwx   1 alexthedacian alexthedacian       59 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+        "      309      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/r200_dri.so",
+        "      308      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+        "      307      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so",
+        "      306      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so",
+        "      305      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so",
+        "      304      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/r300_dri.so",
+        "      303      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/iris_dri.so",
+        "      302      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i965_dri.so",
+        "      301      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+        "      300      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/d3d12_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so",
+        "      299      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+        "      298      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/r600_dri.so",
+        "      297      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so",
+        "      296      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/zink_dri.so",
+        "      295      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so",
+        "      293      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libresolv-2.31.so",
+        "      292      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libbsd.so.0.10.0",
+        "      291      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "      290      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL.so.1.1.0",
+        "      289      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libutil.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libutil-2.31.so",
+        "      288      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX.so.0.0.0",
+        "      287      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_compat-2.31.so",
+        "      286      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libnsl-2.31.so",
+        "      285      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.28",
+        "      284      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libz.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libz.so.1.2.11",
+        "      283      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/x86_64-linux-gnu/librt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/librt-2.31.so",
+        "      282      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libmvec.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libmvec-2.31.so",
+        "      281      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "      280      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/x86_64-linux-gnu/libsensors.so.5.0.0",
+        "      279      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libOpenCL.so.1.0.0",
+        "      278      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libthread_db-1.0.so",
+        "      277      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "      276      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libanl.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libanl-2.31.so",
+        "      275      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libzstd.so.1.4.4",
+        "      274      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+        "      273      0 lrwxrwxrwx   1 alexthedacian alexthedacian       63 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_gfxreconstruct.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_gfxreconstruct.so",
+        "      272      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0",
+        "      271      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libGLESv2.so.2.1.0",
+        "      270      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0",
+        "      269      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libvdpau.so.1.0.0",
+        "      263      0 drwxr-xr-x   4 alexthedacian alexthedacian      100 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan",
+        "      267      0 drwxr-xr-x   2 alexthedacian alexthedacian       60 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan/5",
+        "      268      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan/5/libvulkan_radeon.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_radeon.so",
+        "      266      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan/libvulkan_lvp.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+        "      264      0 drwxr-xr-x   2 alexthedacian alexthedacian       60 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan/2",
+        "      265      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so -> /run/host/usr/lib/x86_64-linux-gnu/libvulkan_intel.so",
+        "      262      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libva-drm.so.2.700.0",
+        "      261      0 lrwxrwxrwx   1 alexthedacian alexthedacian       58 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libBrokenLocale-2.31.so",
+        "      260      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0",
+        "      259      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/x86_64-linux-gnu/libnss_files-2.31.so",
+        "      258      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0",
+        "      257      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0",
+        "      256      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libwayland-server.so.0.1.0",
+        "      255      0 lrwxrwxrwx   1 alexthedacian alexthedacian       67 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_khronos_validation.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_khronos_validation.so",
+        "      254      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libexpat.so.1.6.11",
+        "      253      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/x86_64-linux-gnu/libEGL_mesa.so.0.0.0",
+        "      252      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1",
+        "      251      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0",
+        "      250      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libigdgmm.so.11 -> /run/host/usr/lib/x86_64-linux-gnu/libigdgmm.so.11.1.0",
+        "      249      0 lrwxrwxrwx   1 alexthedacian alexthedacian       59 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libVkLayer_screenshot.so -> /run/host/usr/lib/x86_64-linux-gnu/libVkLayer_screenshot.so",
+        "      248      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/x86_64-linux-gnu/libtinfo.so.6.2",
+        "      247      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libGL.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libGL.so.1.7.0",
+        "      246      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/x86_64-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.0.0",
+        "      244      0 lrwxrwxrwx   1 alexthedacian alexthedacian       14 mai 12 17:25 overrides/lib/platform-i686 -> i386-linux-gnu",
+        "      130      0 drwxr-xr-x   7 alexthedacian alexthedacian     1540 mai 12 17:25 overrides/lib/i386-linux-gnu",
+        "      243      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_dns-2.31.so",
+        "      242      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/i386-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpciaccess.so.0.11.1",
+        "      241      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-shm.so.0.0.0",
+        "      240      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxshmfence.so.1.0.0",
+        "      239      0 lrwxrwxrwx   1 alexthedacian alexthedacian       45 mai 12 17:25 overrides/lib/i386-linux-gnu/libm.so.6 -> /run/host/usr/lib/i386-linux-gnu/libm-2.31.so",
+        "      238      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXdmcp.so.6.0.0",
+        "      237      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/i386-linux-gnu/libXxf86vm.so.1.0.0",
+        "      236      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-randr.so.0.1.0",
+        "      235      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/i386-linux-gnu/libglapi.so.0.0.0",
+        "      225      0 drwxr-xr-x   2 alexthedacian alexthedacian      220 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau",
+        "      234      0 lrwxrwxrwx   1 alexthedacian alexthedacian       64 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      233      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1.0.0",
+        "      232      0 lrwxrwxrwx   1 alexthedacian alexthedacian       64 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      231      0 lrwxrwxrwx   1 alexthedacian alexthedacian       62 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1.0.0",
+        "      230      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1.0.0",
+        "      229      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1.0.0",
+        "      228      0 lrwxrwxrwx   1 alexthedacian alexthedacian       61 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1.0.0",
+        "      227      0 lrwxrwxrwx   1 alexthedacian alexthedacian       65 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      226      0 lrwxrwxrwx   1 alexthedacian alexthedacian       65 mai 12 17:25 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      224      0 lrwxrwxrwx   1 alexthedacian alexthedacian       46 mai 12 17:25 overrides/lib/i386-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/i386-linux-gnu/libgcc_s.so.1",
+        "      223      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libLLVM-12.so.1 -> /run/host/usr/lib/i386-linux-gnu/libLLVM-12.so.1",
+        "      222      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libXau.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXau.so.6.0.0",
+        "      221      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libffi.so.7 -> /run/host/usr/lib/i386-linux-gnu/libffi.so.7.1.0",
+        "      220      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/libXext.so.6 -> /run/host/usr/lib/i386-linux-gnu/libXext.so.6.4.0",
+        "      219      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-present.so.0.0.0",
+        "      218      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libpcprofile.so -> /run/host/usr/lib/i386-linux-gnu/libpcprofile.so",
+        "      217      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libidn2.so.0.3.6",
+        "      216      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/i386-linux-gnu/libpthread-2.31.so",
+        "      215      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/i386-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm_nouveau.so.2.0.0",
+        "      214      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libX11-xcb.so.1.0.0",
+        "      213      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri3.so.0.0.0",
+        "      212      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libX11.so.6 -> /run/host/usr/lib/i386-linux-gnu/libX11.so.6.3.0",
+        "      211      0 lrwxrwxrwx   1 alexthedacian alexthedacian       59 mai 12 17:25 overrides/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_overlay.so",
+        "      210      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/i386-linux-gnu/libmemusage.so -> /run/host/usr/lib/i386-linux-gnu/libmemusage.so",
+        "      209      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/libva.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva.so.2.700.0",
+        "      208      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/i386-linux-gnu/libunistring.so.2.1.0",
+        "      207      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-x11.so.2.700.0",
+        "      206      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-dri2.so.0.0.0",
+        "      201      0 drwxr-xr-x   2 alexthedacian alexthedacian      120 mai 12 17:25 overrides/lib/i386-linux-gnu/aliases",
+        "      205      0 lrwxrwxrwx   1 alexthedacian alexthedacian       37 mai 12 17:25 overrides/lib/i386-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/i386-linux-gnu/libbz2.so.1.0",
+        "      204      0 lrwxrwxrwx   1 alexthedacian alexthedacian       38 mai 12 17:25 overrides/lib/i386-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/i386-linux-gnu/libOSMesa.so.8",
+        "      203      0 lrwxrwxrwx   1 alexthedacian alexthedacian       43 mai 12 17:25 overrides/lib/i386-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/i386-linux-gnu/libcurl-gnutls.so.4",
+        "      202      0 lrwxrwxrwx   1 alexthedacian alexthedacian       35 mai 12 17:25 overrides/lib/i386-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/i386-linux-gnu/libXaw.so.7",
+        "      200      0 lrwxrwxrwx   1 alexthedacian alexthedacian       46 mai 12 17:25 overrides/lib/i386-linux-gnu/libdl.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdl-2.31.so",
+        "      199      0 lrwxrwxrwx   1 alexthedacian alexthedacian       65 mai 12 17:25 overrides/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so -> /run/host/usr/lib/i386-linux-gnu/libVkLayer_MESA_device_select.so",
+        "      196      0 drwxr-xr-x   2 alexthedacian alexthedacian       80 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan_imp_layer",
+        "      198      0 lrwxrwxrwx   1 alexthedacian alexthedacian       77 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "      197      0 lrwxrwxrwx   1 alexthedacian alexthedacian       80 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/alexthedacian/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "      195      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libedit.so.2 -> /run/host/usr/lib/i386-linux-gnu/libedit.so.2.0.63",
+        "      194      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb.so.1.1.0",
+        "      193      0 lrwxrwxrwx   1 alexthedacian alexthedacian       59 mai 12 17:25 overrides/lib/i386-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/i386-linux-gnu/libwayland-client.so.0.3.0",
+        "      192      0 lrwxrwxrwx   1 alexthedacian alexthedacian       45 mai 12 17:25 overrides/lib/i386-linux-gnu/libc.so.6 -> /run/host/usr/lib/i386-linux-gnu/libc-2.31.so",
+        "      191      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libelf.so.1 -> /run/host/usr/lib/i386-linux-gnu/libelf-0.176.so",
+        "      170      0 drwxr-xr-x   2 alexthedacian alexthedacian      440 mai 12 17:25 overrides/lib/i386-linux-gnu/dri",
+        "      190      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/i915_dri.so",
+        "      189      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so",
+        "      188      0 lrwxrwxrwx   1 alexthedacian alexthedacian       58 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+        "      187      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so",
+        "      186      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so",
+        "      185      0 lrwxrwxrwx   1 alexthedacian alexthedacian       57 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+        "      184      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/r200_dri.so",
+        "      183      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/r600_drv_video.so",
+        "      182      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/swrast_dri.so",
+        "      181      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so",
+        "      180      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/radeon_dri.so",
+        "      179      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/r300_dri.so",
+        "      178      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/iris_dri.so",
+        "      177      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/i965_dri.so",
+        "      176      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+        "      175      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+        "      174      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/r600_dri.so",
+        "      173      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/nouveau_dri.so",
+        "      172      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/zink_dri.so",
+        "      171      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so",
+        "      169      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/i386-linux-gnu/libresolv-2.31.so",
+        "      168      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libatomic.so.1 -> /run/host/usr/lib/i386-linux-gnu/libatomic.so.1.2.0",
+        "      167      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/libbsd.so.0 -> /run/host/usr/lib/i386-linux-gnu/libbsd.so.0.10.0",
+        "      166      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-xfixes.so.0.0.0",
+        "      165      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libutil.so.1 -> /run/host/usr/lib/i386-linux-gnu/libutil-2.31.so",
+        "      164      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX.so.0.0.0",
+        "      163      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_compat-2.31.so",
+        "      162      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/i386-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libnsl-2.31.so",
+        "      161      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/i386-linux-gnu/libstdc++.so.6.0.28",
+        "      160      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/i386-linux-gnu/libz.so.1 -> /run/host/usr/lib/i386-linux-gnu/libz.so.1.2.11",
+        "      159      0 lrwxrwxrwx   1 alexthedacian alexthedacian       46 mai 12 17:25 overrides/lib/i386-linux-gnu/librt.so.1 -> /run/host/usr/lib/i386-linux-gnu/librt-2.31.so",
+        "      158      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "      157      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/i386-linux-gnu/libsensors.so.5.0.0",
+        "      156      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libOpenCL.so.1.0.0",
+        "      155      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/i386-linux-gnu/libthread_db-1.0.so",
+        "      154      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/i386-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_amdgpu.so.1.0.0",
+        "      153      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/i386-linux-gnu/libanl.so.1 -> /run/host/usr/lib/i386-linux-gnu/libanl-2.31.so",
+        "      152      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/i386-linux-gnu/libzstd.so.1.4.4",
+        "      151      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0",
+        "      150      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/i386-linux-gnu/libcrypt.so.1.1.0",
+        "      149      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libdrm.so.2.4.0",
+        "      148      0 lrwxrwxrwx   1 alexthedacian alexthedacian       50 mai 12 17:25 overrides/lib/i386-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/i386-linux-gnu/libvdpau.so.1.0.0",
+        "      144      0 drwxr-xr-x   2 alexthedacian alexthedacian      100 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan",
+        "      147      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_intel.so",
+        "      146      0 lrwxrwxrwx   1 alexthedacian alexthedacian       49 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan/libvulkan_lvp.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_lvp.so",
+        "      145      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so -> /run/host/usr/lib/i386-linux-gnu/libvulkan_radeon.so",
+        "      143      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/i386-linux-gnu/libva-drm.so.2.700.0",
+        "      142      0 lrwxrwxrwx   1 alexthedacian alexthedacian       56 mai 12 17:25 overrides/lib/i386-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/i386-linux-gnu/libBrokenLocale-2.31.so",
+        "      141      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/i386-linux-gnu/libxcb-sync.so.1.0.0",
+        "      140      0 lrwxrwxrwx   1 alexthedacian alexthedacian       53 mai 12 17:25 overrides/lib/i386-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/i386-linux-gnu/libnss_files-2.31.so",
+        "      139      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/i386-linux-gnu/libxcb-glx.so.0.0.0",
+        "      138      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/i386-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/i386-linux-gnu/libGLdispatch.so.0.0.0",
+        "      137      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/i386-linux-gnu/libexpat.so.1.6.11",
+        "      136      0 lrwxrwxrwx   1 alexthedacian alexthedacian       55 mai 12 17:25 overrides/lib/i386-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_radeon.so.1.0.1",
+        "      135      0 lrwxrwxrwx   1 alexthedacian alexthedacian       51 mai 12 17:25 overrides/lib/i386-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/i386-linux-gnu/libXfixes.so.3.1.0",
+        "      134      0 lrwxrwxrwx   1 alexthedacian alexthedacian       52 mai 12 17:25 overrides/lib/i386-linux-gnu/libigdgmm.so.11 -> /run/host/usr/lib/i386-linux-gnu/libigdgmm.so.11.1.0",
+        "      133      0 lrwxrwxrwx   1 alexthedacian alexthedacian       48 mai 12 17:25 overrides/lib/i386-linux-gnu/libtinfo.so.6 -> /run/host/usr/lib/i386-linux-gnu/libtinfo.so.6.2",
+        "      132      0 lrwxrwxrwx   1 alexthedacian alexthedacian       47 mai 12 17:25 overrides/lib/i386-linux-gnu/libGL.so.1 -> /run/host/usr/lib/i386-linux-gnu/libGL.so.1.7.0",
+        "      131      0 lrwxrwxrwx   1 alexthedacian alexthedacian       54 mai 12 17:25 overrides/lib/i386-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/i386-linux-gnu/libdrm_intel.so.1.0.0",
+        "      129      0 lrwxrwxrwx   1 alexthedacian alexthedacian       16 mai 12 17:25 overrides/lib/platform-xeon_phi -> x86_64-linux-gnu",
+        "      128      0 lrwxrwxrwx   1 alexthedacian alexthedacian       16 mai 12 17:25 overrides/lib/platform-x86_64 -> x86_64-linux-gnu",
+        "      127      0 lrwxrwxrwx   1 alexthedacian alexthedacian       14 mai 12 17:25 overrides/lib/platform-i386 -> i386-linux-gnu",
+        "      126      0 lrwxrwxrwx   1 alexthedacian alexthedacian       16 mai 12 17:25 overrides/lib/platform-haswell -> x86_64-linux-gnu",
+        "      125      0 lrwxrwxrwx   1 alexthedacian alexthedacian       14 mai 12 17:25 overrides/lib/platform-i486 -> i386-linux-gnu",
+        "      124      0 lrwxrwxrwx   1 alexthedacian alexthedacian       14 mai 12 17:25 overrides/lib/platform-i586 -> i386-linux-gnu",
+        "       87      0 drwxr-xr-x   4 alexthedacian alexthedacian       80 mai 12 17:25 overrides/share",
+        "       91      0 drwxr-xr-x   5 alexthedacian alexthedacian      100 mai 12 17:25 overrides/share/vulkan",
+        "      110      0 drwxr-xr-x   2 alexthedacian alexthedacian      160 mai 12 17:25 overrides/share/vulkan/icd.d",
+        "      121      4 -rw-------   0 alexthedacian alexthedacian      168 mai 12 17:25 overrides/share/vulkan/icd.d/2-x86_64-linux-gnu.json",
+        "      119      4 -rw-------   0 alexthedacian alexthedacian      169 mai 12 17:25 overrides/share/vulkan/icd.d/5-x86_64-linux-gnu.json",
+        "      117      4 -rw-------   0 alexthedacian alexthedacian      164 mai 12 17:25 overrides/share/vulkan/icd.d/0-x86_64-linux-gnu.json",
+        "      115      4 -rw-------   0 alexthedacian alexthedacian      162 mai 12 17:25 overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "      113      4 -rw-------   0 alexthedacian alexthedacian      164 mai 12 17:25 overrides/share/vulkan/icd.d/4-i386-linux-gnu.json",
+        "      111      4 -rw-------   0 alexthedacian alexthedacian      165 mai 12 17:25 overrides/share/vulkan/icd.d/3-i386-linux-gnu.json",
+        "      100      0 drwxr-xr-x   2 alexthedacian alexthedacian      140 mai 12 17:25 overrides/share/vulkan/implicit_layer.d",
+        "      108      4 -rw-------   0 alexthedacian alexthedacian      702 mai 12 17:25 overrides/share/vulkan/implicit_layer.d/2-x86_64-linux-gnu.json",
+        "      106      4 -rw-------   0 alexthedacian alexthedacian      700 mai 12 17:25 overrides/share/vulkan/implicit_layer.d/1-i386-linux-gnu.json",
+        "      104      4 -rw-------   0 alexthedacian alexthedacian      514 mai 12 17:25 overrides/share/vulkan/implicit_layer.d/4-x86_64-linux-gnu.json",
+        "      102      4 -rw-------   0 alexthedacian alexthedacian      512 mai 12 17:25 overrides/share/vulkan/implicit_layer.d/3-i386-linux-gnu.json",
+        "  8655369      4 -rw-r--r--   1 nobody        nogroup            472 ian 21 00:42 overrides/share/vulkan/implicit_layer.d/0.json",
+        "       92      0 drwxr-xr-x   2 alexthedacian alexthedacian      180 mai 12 17:25 overrides/share/vulkan/explicit_layer.d",
+        "  9045483      4 -rw-r--r--   1 nobody        nogroup            566 ian 12 19:48 overrides/share/vulkan/explicit_layer.d/6.json",
+        "  9045176      4 -rw-r--r--   1 nobody        nogroup            560 ian 12 19:48 overrides/share/vulkan/explicit_layer.d/5.json",
+        "  9044064      4 -rw-r--r--   1 nobody        nogroup           1768 ian 12 19:34 overrides/share/vulkan/explicit_layer.d/4.json",
+        "  9044063      4 -rw-r--r--   1 nobody        nogroup            535 ian  7 20:53 overrides/share/vulkan/explicit_layer.d/3.json",
+        "  9045175      4 -rw-r--r--   1 nobody        nogroup            589 ian 12 19:48 overrides/share/vulkan/explicit_layer.d/2.json",
+        "  9044065      4 -rw-r--r--   1 nobody        nogroup            557 ian 12 19:48 overrides/share/vulkan/explicit_layer.d/1.json",
+        "  9050326      4 -rw-r--r--   1 nobody        nogroup            300 mai  4  2020 overrides/share/vulkan/explicit_layer.d/0.json",
+        "       88      0 drwxr-xr-x   3 alexthedacian alexthedacian       60 mai 12 17:25 overrides/share/glvnd",
+        "       89      0 drwxr-xr-x   2 alexthedacian alexthedacian       60 mai 12 17:25 overrides/share/glvnd/egl_vendor.d",
+        "  9175083      4 -rw-r--r--   1 nobody        nogroup            105 mai 10 23:34 overrides/share/glvnd/egl_vendor.d/0.json"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "steamrt",
+    "id_like" : [
+      "debian"
+    ],
+    "name" : "Steam Runtime",
+    "pretty_name" : "Steam Runtime 2 (soldier)",
+    "version_id" : "2",
+    "version_codename" : "soldier",
+    "build_id" : "0.20210415.0",
+    "variant_id" : "com.valvesoftware.steamruntime.platform-amd64_i386-soldier",
+    "variant" : "Platform"
+  },
+  "container" : {
+    "type" : "pressure-vessel",
+    "host" : {
+      "path" : "/run/host",
+      "os-release" : {
+        "id" : "ubuntu",
+        "id_like" : [
+          "debian"
+        ],
+        "name" : "Ubuntu",
+        "pretty_name" : "Ubuntu 20.04.2 LTS",
+        "version_id" : "20.04",
+        "version_codename" : "focal"
+      }
+    }
+  },
+  "driver_environment" : [
+    "DISPLAY=:99.0",
+    "LD_LIBRARY_PATH=/overrides/lib/x86_64-linux-gnu:/overrides/lib/x86_64-linux-gnu/aliases:/overrides/lib/i386-linux-gnu:/overrides/lib/i386-linux-gnu/aliases",
+    "PULSE_CLIENTCONFIG=/run/user/1000/pulse/config",
+    "PULSE_SERVER=unix:/run/user/1000/pulse/native",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,",
+    "VK_ICD_FILENAMES=/overrides/share/vulkan/icd.d/0-x86_64-linux-gnu.json:/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/2-x86_64-linux-gnu.json:/overrides/share/vulkan/icd.d/3-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/4-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/5-x86_64-linux-gnu.json",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "__EGL_VENDOR_LIBRARY_FILENAMES=/overrides/share/glvnd/egl_vendor.d/0.json"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib/i386-linux-gnu/ld-2.28.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "WARNING: lavapipe is not a conformant vulkan implementation, testing use only."
+          ],
+          "renderer" : "AMD RADV POLARIS10 (ACO)",
+          "version" : "1.2.168 (device 0x1002:0x67df) (driver 21.1.0)",
+          "devices" : [
+            {
+              "name" : "AMD RADV POLARIS10 (ACO)",
+              "api-version" : "1.2.168",
+              "driver-version" : "21.1.0",
+              "vendor-id" : "0x1002",
+              "device-id" : "0x67df",
+              "type" : "discrete-gpu"
+            },
+            {
+              "name" : "llvmpipe (LLVM 12.0.0, 256 bits)",
+              "api-version" : "1.1.168",
+              "driver-version" : "0.0.1",
+              "vendor-id" : "0x10005",
+              "device-id" : "0",
+              "type" : "cpu",
+              "issues" : [
+                "software-rendering"
+              ]
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "G3DVL VDPAU Driver Shared Library version 1.0\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.7.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+            "libva error: dlopen of /overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so failed: /overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so: wrong ELF class: ELFCLASS64",
+            "libva info: Trying to open /overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0"
+          ],
+          "renderer" : "Mesa Gallium driver 21.1.0 for Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)\n",
+          "version" : null
+        },
+        "glx/gl" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "messages" : [
+            "Waffle error: 0x1 WAFFLE_ERROR_FATAL: dlopen(\"libEGL.so.1\") failed: libEGL.so.1: wrong ELF class: ELFCLASS64"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "unknown",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        },
+        "egl_x11/glesv2" : {
+          "messages" : [
+            "Waffle error: 0x1 WAFFLE_ERROR_FATAL: dlopen(\"libEGL.so.1\") failed: libEGL.so.1: wrong ELF class: ELFCLASS64"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "library-vendor" : "unknown",
+          "issues" : [
+            "cannot-load"
+          ],
+          "exit-status" : 1
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/i386-linux-gnu/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/x86_64-linux-gnu/ld-2.28.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "WARNING: lavapipe is not a conformant vulkan implementation, testing use only."
+          ],
+          "renderer" : "AMD RADV POLARIS10 (ACO)",
+          "version" : "1.2.168 (device 0x1002:0x67df) (driver 21.1.0)",
+          "devices" : [
+            {
+              "name" : "AMD RADV POLARIS10 (ACO)",
+              "api-version" : "1.2.168",
+              "driver-version" : "21.1.0",
+              "vendor-id" : "0x1002",
+              "device-id" : "0x67df",
+              "type" : "discrete-gpu"
+            },
+            {
+              "name" : "llvmpipe (LLVM 12.0.0, 256 bits)",
+              "api-version" : "1.1.168",
+              "driver-version" : "0.0.1",
+              "vendor-id" : "0x10005",
+              "device-id" : "0",
+              "type" : "cpu",
+              "issues" : [
+                "software-rendering"
+              ]
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "renderer" : "G3DVL VDPAU Driver Shared Library version 1.0\n",
+          "version" : null
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.7.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0"
+          ],
+          "renderer" : "Mesa Gallium driver 21.1.0 for Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)\n",
+          "version" : null
+        },
+        "glx/gl" : {
+          "messages" : [
+            "libGL: Can't open configuration file /etc/drirc: No such file or directory.",
+            "libGL: Can't open configuration file /home/alexthedacian/.drirc: No such file or directory.",
+            "libGL: using driver amdgpu for 4",
+            "libGL: Can't open configuration file /etc/drirc: No such file or directory.",
+            "libGL: Can't open configuration file /home/alexthedacian/.drirc: No such file or directory.",
+            "libGL: pci id for fd 4: 1002:67df, driver radeonsi",
+            "libGL: MESA-LOADER: dlopen(/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so)",
+            "libGL: Can't open configuration file /etc/drirc: No such file or directory.",
+            "libGL: Can't open configuration file /home/alexthedacian/.drirc: No such file or directory.",
+            "libGL: Can't open configuration file /etc/drirc: No such file or directory.",
+            "libGL: Can't open configuration file /home/alexthedacian/.drirc: No such file or directory.",
+            "libGL: Can't open configuration file /etc/drirc: No such file or directory.",
+            "libGL: Can't open configuration file /home/alexthedacian/.drirc: No such file or directory.",
+            "/usr/share/libdrm/amdgpu.ids version: 1.0.0",
+            "libGL: Using DRI3 for screen 0"
+          ],
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd",
+          "issues" : [
+            "cannot-draw"
+          ],
+          "terminating-signal" : 6,
+          "terminating-signal-name" : "Aborted"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Radeon RX 580 Series (POLARIS10, DRM 3.38.0, 5.8.0-53-generic, LLVM 12.0.0)",
+          "version" : "OpenGL ES 3.2 Mesa 21.1.0",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/d3d12_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "LC_CTYPE=en_US.UTF-8;LC_NUMERIC=ro_RO.UTF-8;LC_TIME=ro_RO.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=ro_RO.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=ro_RO.UTF-8;LC_NAME=ro_RO.UTF-8;LC_ADDRESS=ro_RO.UTF-8;LC_TELEPHONE=ro_RO.UTF-8;LC_MEASUREMENT=ro_RO.UTF-8;LC_IDENTIFICATION=ro_RO.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "resulting-name" : "C.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/glvnd/egl_vendor.d/0.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/0-x86_64-linux-gnu.json",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan/libvulkan_lvp.so",
+        "api_version" : "1.1.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_lvp.so",
+        "api_version" : "1.1.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/2-x86_64-linux-gnu.json",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan/2/libvulkan_intel.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/3-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/4-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/5-x86_64-linux-gnu.json",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan/5/libvulkan_radeon.so",
+        "api_version" : "1.2.168",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/0.json",
+        "name" : "VK_LAYER_MESA_overlay",
+        "description" : "Mesa Overlay layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.1.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_overlay.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/1.json",
+        "name" : "VK_LAYER_LUNARG_api_dump",
+        "description" : "LunarG API dump layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "2",
+        "library_path" : "libVkLayer_api_dump.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/2.json",
+        "name" : "VK_LAYER_LUNARG_device_simulation",
+        "description" : "LunarG device simulation layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1.4.1",
+        "library_path" : "libVkLayer_device_simulation.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/3.json",
+        "name" : "VK_LAYER_LUNARG_gfxreconstruct",
+        "description" : "GFXReconstruct Capture Layer Version 0.9.5-unknown",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "36869",
+        "library_path" : "libVkLayer_gfxreconstruct.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/4.json",
+        "name" : "VK_LAYER_KHRONOS_validation",
+        "description" : "Khronos Validation Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_khronos_validation.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/5.json",
+        "name" : "VK_LAYER_LUNARG_monitor",
+        "description" : "Execution Monitoring Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_monitor.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/explicit_layer.d/6.json",
+        "name" : "VK_LAYER_LUNARG_screenshot",
+        "description" : "LunarG image capture layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.162",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_screenshot.so",
+        "issues" : [
+        ]
+      }
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/0.json",
+        "name" : "VK_LAYER_MESA_device_select",
+        "description" : "Linux device selection layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.73",
+        "implementation_version" : "1",
+        "library_path" : "libVkLayer_MESA_device_select.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/1-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/2-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/3-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/4-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : false
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
